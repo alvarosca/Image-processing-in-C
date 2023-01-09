@@ -1,4 +1,4 @@
-# TP9511
+# Image processing in C
 
 This repository contains the code for a C-based terminal Image editor.
 
